@@ -1,2 +1,2 @@
 # Pytorch-zero-to-GANs-Jovian
-Contains all exercises for the named online course
+Contains all exercises for the named online course with some modifications
